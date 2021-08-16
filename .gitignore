@@ -1,3 +1,4 @@
-/tablas_multiplicar/*.txt 
 
-/node_modules/
+tablas_multiplicar/*.txt
+
+node_modules/*
