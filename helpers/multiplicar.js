@@ -16,7 +16,7 @@ const colors = require('colors');
         if( listar )
             console.log(consola);
 
-        fs.writeFileSync(`./tablas-multiplicar/tabla-${base}.txt`, salida);
+        fs.writeFileSync(`./salida/tabla-${base}.txt`, salida);
         
         return `tabla-${base}.txt creada`;
         
