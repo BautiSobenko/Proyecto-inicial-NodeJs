@@ -1,6 +1,18 @@
 # Notas:
 
-### Mi primer proyecto en node
+## Primer proyecto en node
+
+<br/>
+
+### Proyecto en donde se implementa el uso de la consola, nos permite mediante esta misma crear diferentes salidas en archivos txt de las tablas de multiplicar
+
+<br/>
+
+### Se utilzaron diferentes librerias npm tales como:
+    > yargs.js
+    > colors.js
+
+<br/>
 
 ```
 Options:
